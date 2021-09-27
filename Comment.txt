@@ -1,0 +1,1 @@
+I think the Verifiable Computation mechanism is a good idea and could bring a good solution to scalability issues suffered by other blockchains, like Ethereum.
